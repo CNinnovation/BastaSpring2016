@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0-*",
+
+    "dependencies": {
+
+    },
+
+    "frameworks": {
+        "netstandard1.2": {
+           "dependencies": {
+             "System.Runtime": "4.0.0-*"
+           },
+           "imports": [ "dnxcore50" ]
+        }
+    }
+}
